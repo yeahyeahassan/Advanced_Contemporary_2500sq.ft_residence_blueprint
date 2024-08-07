@@ -37,3 +37,10 @@ The 2500 Square Ft Layout project is designed to create a comprehensive and func
 - **Single Line Diagram:** Flow of electricity from main supply.
 - **Earthing System:** Protection from electrical hazards.
 - **Lightning Protection System:** Safeguarding from lightning strikes.
+
+![Thank You](https://img.shields.io/badge/Thank%20You!-blue?style=flat-square&logo=smile)
+
+<!-- Graphical GIF Animation -->
+<div class="gif-container" style="text-align: center; margin-bottom: 20px;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdob2I4cHdsdWhnbmtmYTBxbnk4cnl2YjZ1bGw5ZGZvMXBwdWc4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/00n6TSoGffGTLXSMPO/giphy.gif" alt="Working on it GIF" />
+</div>
